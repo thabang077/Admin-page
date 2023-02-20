@@ -10,4 +10,5 @@ The user credentials:
           username:andile
           password:1234
           
+LOG IN and have FUN
           
