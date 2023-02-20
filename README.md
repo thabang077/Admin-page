@@ -1,4 +1,4 @@
-# Admin-page
+# Timesheet app
 
 This is a time sheet
 
